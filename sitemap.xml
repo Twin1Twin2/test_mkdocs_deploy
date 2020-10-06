@@ -3,5 +3,9 @@
      <loc>https://twin1twin2.github.io/testing-stuff/</loc>
      <lastmod>2020-10-06</lastmod>
      <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://twin1twin2.github.io/testing-stuff/stuff/</loc>
+     <lastmod>2020-10-06</lastmod>
+     <changefreq>daily</changefreq>
     </url>
 </urlset>
