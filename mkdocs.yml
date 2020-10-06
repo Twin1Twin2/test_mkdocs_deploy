@@ -5,6 +5,7 @@ site_url: https://twin1twin2.github.io/testing-stuff/
 
 nav:
   - Home: index.md
+  - Stuff: stuff.md
 
 theme:
   name: material
