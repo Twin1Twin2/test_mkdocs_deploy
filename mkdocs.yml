@@ -1,7 +1,7 @@
 site_name: Testing mkdocs
 site_description: Doing stuff
 site_author: TheEpicTwin
-site_url: https://twin1twin2.github.io/testing-stuff/
+site_url: https://twin1twin2.github.io/test_mkdocs_deploy/
 
 nav:
   - Home: index.md
