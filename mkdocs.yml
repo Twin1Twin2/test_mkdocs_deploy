@@ -1,0 +1,12 @@
+site_name: Testing mkdocs
+site_description: Doing stuff
+site_author: TheEpicTwin
+site_url: https://twin1twin2.github.io/testing-stuff/
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+  palette:
+    primary: red
